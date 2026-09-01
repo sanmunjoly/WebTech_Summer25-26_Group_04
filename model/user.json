@@ -1,0 +1,102 @@
+[
+    {
+        "username": "DOLY SHAHA",
+        "email": "RUDRASAHA545@GMAIL.COM",
+        "phone": "01828121342",
+        "blood_group": "AB-",
+        "address": "dk",
+        "role": "recipient",
+        "password": "$2y$10$sWMu.FL.\/oATUJp3ls8vPutrr5r8PU0rRoQ\/bV0HFzs6HcBcp49sO",
+        "timestamp": 1788286628
+    },
+    {
+        "username": "liyan raj",
+        "email": "liyansaha222@gmail.com",
+        "phone": "01647653054",
+        "blood_group": "O+",
+        "address": "narayanganj",
+        "role": "donor",
+        "password": "$2y$10$qx6Ph8oqsDYdRmoRzzADPuWRgvu\/dx5TVDpUrb6wMF8Uu.bszTLsa",
+        "timestamp": 1788287109
+    },
+    {
+        "username": "Liyan",
+        "email": "24-57733-2@student.aiub.edu",
+        "phone": "01715101884",
+        "blood_group": "O-",
+        "address": "11221",
+        "role": "recipient",
+        "password": "$2y$10$5Dhr1FObJvgmsyTbccIjcederbDfeDYH5QWAR9zeQxkncfWL0Hp3i",
+        "timestamp": 1788288233
+    },
+    {
+        "username": "Ranjan Saha",
+        "email": "24-57733-2@student.aiub.edu",
+        "phone": "01715101884",
+        "blood_group": "O+",
+        "address": "cumilla",
+        "role": "recipient",
+        "password": "$2y$10$XZdPpeAoFQNK077fnWimvuJl.WR2v1\/Dpt2iQcYlqTijvc4EHW.02",
+        "timestamp": 1788290380
+    },
+    {
+        "username": "Ranjan Saha",
+        "email": "RUDRASAHA545@GMAIL.COM",
+        "phone": "01715101884",
+        "blood_group": "O+",
+        "address": "eewwe",
+        "role": "recipient",
+        "password": "$2y$10$gvuTjFhe4u7kPMLKtWrRveTBDFJ90stcmwGQCAdQ8\/hsyWINn98T2",
+        "timestamp": 1788290582
+    },
+    {
+        "username": "Ranjan Saha",
+        "email": "RUDRASAHA545@GMAIL.COM",
+        "phone": "01828121342",
+        "blood_group": "A-",
+        "address": "dk",
+        "role": "patient",
+        "password": "$2y$10$Ar2Ohaond92eTR08Xw4tA.Gs1JhHrlCZcOVwHgljO3CX39UPcn2v.",
+        "timestamp": 1788292586
+    },
+    {
+        "username": "Ranjan Saha",
+        "email": "RUDRASAHA545@GMAIL.COM",
+        "phone": "01715101884",
+        "blood_group": "B+",
+        "address": "narayanganj",
+        "role": "patient",
+        "password": "$2y$10$cgK7z4q9lr3WD\/OPfQTO3uKB18ni5HZr36JclwdxteUZMp62OVsKK",
+        "timestamp": 1788292771
+    },
+    {
+        "username": "Liyan Saha",
+        "email": "liyansaha123@gmail.com",
+        "phone": "01647653054",
+        "blood_group": "B+",
+        "address": "narayanganj",
+        "role": "patient",
+        "password": "$2y$10$w\/izYIVUzAe.7U6llm8QQu3jEIVQk21cZL3KR.bcTikeRHJvdHWJK",
+        "timestamp": 1788293574
+    },
+    {
+        "username": "Liyan Saha",
+        "email": "RUDRASAHA545@GMAIL.COM",
+        "phone": "01715101884",
+        "blood_group": "A+",
+        "address": "qwqwqw",
+        "role": "patient",
+        "password": "$2y$10$PuzwvrGEkhCcek3AjQXdmufAe0a8dMQpg7Xa86inrhiP68LojuX5m",
+        "timestamp": 1788293735
+    },
+    {
+        "username": "Ranjan Saha",
+        "email": "24-57733-2@student.aiub.edu",
+        "phone": "01715101884",
+        "blood_group": "B+",
+        "address": "qwqwqw",
+        "role": "patient",
+        "password": "$2y$10$TpdHTSDCBn1KJ05DITqFYOUHvkQcjvvX.yXsEdvaOqXcrR1bpAkGe",
+        "timestamp": 1788294037
+    }
+]
