@@ -1,0 +1,52 @@
+[
+  {
+    "id": "U001",
+    "name": "Rahim Ahmed",
+    "email": "rahim@email.com",
+    "role": "Donor",
+    "status": "Active",
+    "blood_group": "O+",
+    "location": "Dhaka",
+    "available": true
+  },
+  {
+    "id": "U002",
+    "name": "Sumaiya Islam",
+    "email": "sumaiya@email.com",
+    "role": "Recipient",
+    "status": "Active",
+    "blood_group": "A+",
+    "location": "Dhaka",
+    "available": false
+  },
+  {
+    "id": "U003",
+    "name": "Tanvir Hasan",
+    "email": "tanvir@email.com",
+    "role": "Donor",
+    "status": "Active",
+    "blood_group": "B+",
+    "location": "Mirpur",
+    "available": false
+  },
+  {
+    "id": "U004",
+    "name": "Nusrat Jahan",
+    "email": "nusrat@email.com",
+    "role": "Donor",
+    "status": "Active",
+    "blood_group": "A-",
+    "location": "Dhanmondi",
+    "available": true
+  },
+  {
+    "id": "U005",
+    "name": "Arif Khan",
+    "email": "arif@email.com",
+    "role": "Recipient",
+    "status": "Active",
+    "blood_group": "O-",
+    "location": "Chattogram",
+    "available": false
+  }
+]

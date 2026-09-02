@@ -1,0 +1,42 @@
+[
+  {
+    "group": "A+",
+    "units": 45,
+    "status": "Normal"
+  },
+  {
+    "group": "A-",
+    "units": 20,
+    "status": "Normal"
+  },
+  {
+    "group": "B+",
+    "units": 60,
+    "status": "Normal"
+  },
+  {
+    "group": "B-",
+    "units": 15,
+    "status": "Low"
+  },
+  {
+    "group": "AB+",
+    "units": 25,
+    "status": "Normal"
+  },
+  {
+    "group": "AB-",
+    "units": 10,
+    "status": "Critical"
+  },
+  {
+    "group": "O+",
+    "units": 100,
+    "status": "Normal"
+  },
+  {
+    "group": "O-",
+    "units": 15,
+    "status": "Low"
+  }
+]
